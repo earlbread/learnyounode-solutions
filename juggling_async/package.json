@@ -1,0 +1,14 @@
+{
+  "name": "juggling_async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "juggling_async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bl": "^1.2.1"
+  }
+}
